@@ -1,0 +1,6 @@
+<span style="font-family: Arial, sans-serif; font-size: 9pt; color: rgb(116, 116, 116);">※ 단어가 클수록 빈도가 높습니다.</span>
+<p style="margin-top: 5px; margin-bottom: 5px;"><span style="font-family: Arial, sans-serif; font-size: 14pt;">오늘의 워드클라우드</span></p>
+<!-- 워드클라우드 이미지 위치 -->
+<p style="margin-top: 10px;"><span style="font-family: Arial, sans-serif; font-size: 14pt;">총 [posts]개의 글 집계</span></p>
+<!-- <p><span style="font-family: Arial, sans-serif; font-size: 13pt;">AI 갤러리 요약</span></p> -->
+[ai]
